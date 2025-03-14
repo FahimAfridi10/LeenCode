@@ -8,6 +8,7 @@ LeenCode Solution
 | ------- |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -39,4 +40,12 @@ LeenCode Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
