@@ -7,6 +7,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
 |  |
@@ -29,4 +30,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
