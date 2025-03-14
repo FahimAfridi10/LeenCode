@@ -15,6 +15,7 @@ LeenCode Solution
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
 ## Bit Manipulation
 |  |
@@ -24,4 +25,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/FahimAfridi10/LeenCode/tree/master/0058-length-of-last-word) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
