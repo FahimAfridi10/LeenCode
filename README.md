@@ -20,4 +20,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/FahimAfridi10/LeenCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
