@@ -7,6 +7,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
@@ -48,4 +49,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
