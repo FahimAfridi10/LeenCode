@@ -16,6 +16,7 @@ LeenCode Solution
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -34,4 +35,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
