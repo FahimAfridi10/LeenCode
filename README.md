@@ -10,6 +10,7 @@ LeenCode Solution
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 | [0319-bulb-switcher](https://github.com/FahimAfridi10/LeenCode/tree/master/0319-bulb-switcher) |
 ## Brainteaser
@@ -37,6 +38,7 @@ LeenCode Solution
 | ------- |
 | [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -45,6 +47,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 ## Simulation
 |  |
 | ------- |
