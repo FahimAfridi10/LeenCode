@@ -7,6 +7,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
@@ -29,6 +30,7 @@ LeenCode Solution
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/FahimAfridi10/LeenCode/tree/master/0058-length-of-last-word) |
 ## Two Pointers
 |  |
@@ -46,6 +48,7 @@ LeenCode Solution
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/FahimAfridi10/LeenCode/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
