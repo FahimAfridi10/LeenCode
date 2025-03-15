@@ -19,6 +19,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0136-single-number) |
 ## Bit Manipulation
@@ -32,6 +33,7 @@ LeenCode Solution
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/FahimAfridi10/LeenCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
@@ -53,4 +55,8 @@ LeenCode Solution
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
