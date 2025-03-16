@@ -7,6 +7,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/FahimAfridi10/LeenCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/FahimAfridi10/LeenCode/tree/master/0069-sqrtx) |
@@ -31,6 +32,7 @@ LeenCode Solution
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/FahimAfridi10/LeenCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/FahimAfridi10/LeenCode/tree/master/0058-length-of-last-word) |
 ## Two Pointers
@@ -47,6 +49,7 @@ LeenCode Solution
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/FahimAfridi10/LeenCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/FahimAfridi10/LeenCode/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/FahimAfridi10/LeenCode/tree/master/0202-happy-number) |
 ## Simulation
 |  |
